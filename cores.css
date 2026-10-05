@@ -1,0 +1,65 @@
+body{
+    margin: 0px ;
+    padding: 10px; 
+    
+}
+/*AJUTES DO TITULO*/
+#c{
+background-color: rgb(23, 23, 64); 
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: aliceblue; 
+display:inline-block; 
+text-align: left; 
+padding: 0px 197px 0px 7px ; 
+border-radius: 9px;
+font-size: 40px;
+margin-top: 10px;
+}
+
+h2{
+    color: rgb(31, 31, 85);
+    font-weight: normal;
+    font-family:sans-serif ;
+    margin-top: -20px;
+}
+
+/*ALTURA DO JPG DAS CORES*/
+.r, .z, .n, .a, .v{
+width: 200px;
+height:200px;
+display: block;
+margin-top: 45px;
+}
+
+/* NOME DAS CORES, COM COR*/
+.rojo{
+    color: red;
+font-size: 30px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 5px;
+ ;
+}
+.azul{
+    color: blue;
+font-size: 30px;
+margin-top:5px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.anaranjado{
+    color: orangered;
+font-size: 30px;
+margin-top:5px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.amarilo{
+    color: yellow;
+font-size: 30px;
+margin-top:5px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.verde{ 
+    color: green;
+font-size: 30px;
+margin-top:5px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
